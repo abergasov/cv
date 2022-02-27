@@ -89,11 +89,12 @@ _Applied skills_
 > JavaScript, PHP, Laravel, Electron, Websockets, Node.js, MySQL, Magento, Yii framework
 
 ### ISB Techno - Developer
+_Custom development for pharmaceutical manufacturers_
 
 _October 2014 — August 2016 (1 year and 11 months)_
 
 Development of CPM / ERP for hiring and remote control of commercial representatives for pharmaceutical manufacturers (Jonson&Jonson, Danone, Zambon, Pharmsyntez, Mayoly-Spindler). Custom-built CRM system with using of slim-framework in some places
-* Ï Implemented features from the customers;
+* Implemented features from the customers;
 * Implemented a tool for creating employee's individual plans;
 * Development of reports for the management;
 * Api for the mobile app.
@@ -105,3 +106,26 @@ Development of CPM / ERP for hiring and remote control of commercial representat
 
 _Applied skills_
 > PHP, Laravel, MySQL, JavaScript, RESTful API
+ 
+### T1 Integration - Developer
+_Largest bank integrator_
+
+_September 2013-November 2014 (1 year and 3 months)_
+
+Project "Tinkoff online insurance"
+* Development of a software platform for underwriting, insurance premium assessment, insurance policy and billing management, loss settlement;
+* Worked with the customer, took part in the formation of requirements for the system.
+
+The project was launched.
+
+_Applied skills_
+> Guidewire Studio, OracleSQL database
+
+### [Iteco](https://www.i-teco.ru/) - System Analyst
+_System integrator_
+
+Work for "AS Payments" project by Sberbank:
+* Collecting and analyzing business requirements;
+* Formalization and structuring of requirements;
+* Writing technical assignments for software development;
+* Communication with developers and tester
