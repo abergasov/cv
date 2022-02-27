@@ -4,8 +4,6 @@ _Unique dynamic highloaded system involving thousands of drivers and millions of
 
 _Мay 2021 — present (10 months)_
 
-_Responsibilities and achievements:_
-
 Work in billing team, transaction processing, invoicing
 
 #### Key results:
