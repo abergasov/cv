@@ -29,3 +29,79 @@ _July 2019 – April 2021 (1 year and 10 months)_
   
 _Applied skills_
 > Golang, PHP, PhpUnit, JavaScript, High-load systems, SQL, Tarantool, Lua, Elasticsearch, Docker
+
+### Buymaxx - Developer | Co-Founder
+_Development of applications with a colleague for e-commerce platform Shopify_
+
+_Jun 2017 - Jun 2021 · 4 yrs 1 months_
+
+Published 5 applications for stocktaking at large stores. (The biggest customer has ~500k items)
+
+#### Key results:
+* The application got into the top 5 recommended for a week;
+* The total peak number of active users reached 10,000;
+* The system allowed for a quick product search in less than a second for large stores, combining more than 36 conditions;
+* Databases were quickly scaled with the growth of clients; servers were utilized completely, minimizing costs.
+
+In 2021, an American app development company offered an app purchase deal to which we agreed.
+
+_Applied skills_
+> Vue.js, Golang, PHP, MySQL, GraphQL, REST, Linux, Protobuf
+
+### [Workstation](https://coworkstation.ru/) - Full-stack Developer
+_First federal coworking network_
+
+_November 2018 — June 2019 (8 months)_
+
+Development and modification of internal systems being the sole developer.
+
+* Developed an access control and management system for coworking (moved it from monolith to a separate service). As a result, customers could use their premises even in the event of monolith failure;
+* Modification and bug fixing in Custom-built CRM system;
+* Configuring the infrastructure - increasing system uptime, monitoring of states, logging of incidents/changes;
+* Completely rewrote the generation of reports for management/accounting/marketing managers.
+
+#### Key results:
+* Grown total uptime and system response time;
+* The business has reports that reflect the real state of affairs;
+* The situations where it is unclear who and when made changes to orders and contracts have stopped occurring;
+* Configured ci/cd for code delivery.
+
+_Applied skills_
+> Golang, Linux, JavaScript, PHP, PostgreSQL, ООP, Yii framework, Python, Node.js
+
+### Aristos - Senior Developer
+_Company-provider for official fulfillment e-shops for brands like: Philips, DeWalt, Tikkurila, Axor, Weber и др._
+
+_September 2016 — October 2018 (2 years and 2 months)_
+
+Development, debugging and support of SIP-telephony application for call centers of 20 official online stores (Philips, LG, Castrol, Grohe, Grundfos, Rehau, Olympus, Tefal, etc.)
+* Application on Electron. The SIP provider is Voximplant;
+* Development of analytical functionality and monitoring of operators' work;
+* Technical modifications as per the customer's Terms of Reference;
+* Integration of the application with Magento Enterprise.
+
+#### Key results:
+* Reduced the load on the department during sales days – the robot automatically called and confirmed the order;
+* The conversation time with the client was reduced by 10% due to receiving information about the client even before start of the conversation;
+* The number of lost customers in the call center decreased after the employees handled each missed call.
+
+_Applied skills_
+> JavaScript, PHP, Laravel, Electron, Websockets, Node.js, MySQL, Magento, Yii framework
+
+### ISB Techno - Developer
+
+_October 2014 — August 2016 (1 year and 11 months)_
+
+Development of CPM / ERP for hiring and remote control of commercial representatives for pharmaceutical manufacturers (Jonson&Jonson, Danone, Zambon, Pharmsyntez, Mayoly-Spindler). Custom-built CRM system with using of slim-framework in some places
+* Ï Implemented features from the customers;
+* Implemented a tool for creating employee's individual plans;
+* Development of reports for the management;
+* Api for the mobile app.
+
+#### Key results:
+* Redesign of the system architecture, enabled to reduce connecting time of new customers from a week to 1 day;
+* Planning a daily sales plan became much easier with the use of a map and route tips;
+* Spaghetti code was rewritten to object-oriented model.
+
+_Applied skills_
+> PHP, Laravel, MySQL, JavaScript, RESTful API
