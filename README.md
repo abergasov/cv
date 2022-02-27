@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Work experience
+### [Gett](https://gett.com/intl/) - Senior Backend Developer
+_Unique dynamic highloaded system involving thousands of drivers and millions of users_
 
-You can use the [editor on GitHub](https://github.com/abergasov/cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_Мay 2021 — present (10 months)_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Responsibilities and achievements:_
 
-### Markdown
+Work in billing team, transaction processing, invoicing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Key results:
+* Built in segregation of duties in the process of tariff change, order change. A necessary requirement from an external audit for IPO;
+* Integration of billing flow with SAP Concur, enabled to implement seamless international business trips for corporate clients;
+* Modification of reports for accounting, billing days became less painful;
+* Technical upgrade of stack – fixing vulnerabilities, configuring the end-to-end logging between services. As a result, the whole path is visible in case of problem investigation, reduced time for bug finding
 
-```markdown
-Syntax highlighted code block
+_Applied skills_
+> Golang, PostgreSQL, Docker, Ruby on Rails, RabbitMQ, Nginx
 
-# Header 1
-## Header 2
-### Header 3
+### [Citymobil](https://city-mobil.ru/) - Senior Backend Developer
+_Develop modern platform taxy_ 
 
-- Bulleted
-- List
+_July 2019 – April 2021 (1 year and 10 months)_
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abergasov/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Key results:
+* Implemented the functionality for connecting additional operators during the period of increased load on the call center, it reduced response time for customers;
+* Developed a new functionality for the system of taxi ordering via operators – the inclusion of recorded phrases into a conversation with the client. Reduced time of order finalization, helped to quickly include marketing promotions into the conversation;
+* Implemented taxi ordering process via voice assistant (integration of external development with telephony);
+* Implemented the functionality of switching new customers to answerphone if the key components of the system are unavailable;
+* Modification of the training system for new employees of the call-center.
+  
+_Applied skills_
+> Golang, PHP, PhpUnit, JavaScript, High-load systems, SQL, Tarantool, Lua, Elasticsearch, Docker
